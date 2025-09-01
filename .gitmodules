@@ -1,0 +1,4 @@
+[submodule "vendor/qcom/opensource/touch-drivers"]
+	path = vendor/qcom/opensource/touch-drivers
+	url = https://git.codelinaro.org/clo/la/platform/vendor/opensource/touch-drivers.git
+	branch = touch-kernel.lnx.5.15.r41-rel
